@@ -40,6 +40,8 @@ INSTALLED_APPS = [
     'serialApp',
     'rest_framework',
     'class_based_api',
+    'genericsApp',
+    'modelSetViewApp',
 ]
 
 MIDDLEWARE = [
